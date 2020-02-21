@@ -1,0 +1,13 @@
+{
+    "path" : "~/github/liberioltre3",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        },
+        {
+            "ascending" : true,
+            "columnIndex" : 4
+        }
+    ]
+}
