@@ -1,9 +1,11 @@
 # Liberi, Oltre Le Emissioni
 
-## Sustainable Decarbonization
+## *Sustainable Decarbonization*
 
 ### Ca'Foscari Venezia | 15/02/2020
 
-* [Slides]()
+* [*Slides*](https://pitmonticone.github.io/liberioltre3/slides.html)
 
-* [Video]()
+* [*Dashboard*]() (not available yet)
+
+* [*Video*](https://www.youtube.com/watch?v=___0U6uikPA)
