@@ -1,4 +1,4 @@
-[![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/pitmonticone/Complexity-Physics/commits/master)
+[![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/pitmonticone/liberioltre3/commits/master)
 
 # Liberi, Oltre Le Emissioni
 
