@@ -8,7 +8,7 @@
 * [Dashboard]() (not available yet)
 * [Video](https://www.youtube.com/watch?v=___0U6uikPA)
 
-Copyright 2020 Pietro Monticone 
+**Copyright 2020 Pietro Monticone**
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
@@ -23,3 +23,4 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
