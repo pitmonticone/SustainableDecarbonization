@@ -10,6 +10,8 @@
 * [Dashboard]() (not available yet)
 * [Video](https://www.youtube.com/watch?v=___0U6uikPA)
 
+<br><br>
+
 **Copyright 2020 Pietro Monticone**
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
