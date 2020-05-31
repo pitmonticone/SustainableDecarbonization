@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/242124161.svg)](https://zenodo.org/badge/latestdoi/242124161)
-
 # Liberi, Oltre Le Emissioni
 
 ## *Sustainable Decarbonization*
