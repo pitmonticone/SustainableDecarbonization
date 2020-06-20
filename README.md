@@ -1,6 +1,29 @@
-# Liberi, Oltre Le Emissioni
+<!-- Meta-Badges -->
+</p>
 
-## *Sustainable Decarbonization*
+<p align="center">
+    <img alt="Size" src="https://img.shields.io/github/repo-size/pitmonticone/SustainableDecarbonization">
+  </a>
+    <img alt="Languages" src="https://img.shields.io/github/languages/count/pitmonticone/SustainableDecarbonization">
+  </a>
+    <img alt="Contributors" src="https://img.shields.io/github/contributors/pitmonticone/SustainableDecarbonization">
+  </a>
+    <a href="https://opensource.org/licenses/Apache-2.0">
+    <img alt="Apache-2.0 Licence" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">
+  </a>
+  
+</p>
+
+<!-- Title -->
+<h1 align="center">
+  Liberi, Oltre Le Emissioni
+</h1>
+
+<!-- Subtitle -->
+<h3 align="center">
+  *Sustainable Decarbonization*
+</h3>
+
 
 ### Ca'Foscari Venezia | 15/02/2020
 
