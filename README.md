@@ -16,16 +16,8 @@
 
 <!-- Title -->
 <h1 align="center">
-  Liberi, Oltre Le Emissioni
+  Sustainable Decarbonization
 </h1>
-
-<!-- Subtitle -->
-<h3 align="center">
-  *Sustainable Decarbonization*
-</h3>
-
-
-### Ca'Foscari Venezia | 15/02/2020
 
 * [Slides](https://pitmonticone.github.io/SustainableDecarbonization/slides.html)
 * [Dashboard]() (not available yet)
