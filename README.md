@@ -20,7 +20,6 @@
 </h1>
 
 * [Slides](https://pitmonticone.github.io/SustainableDecarbonization/slides.html)
-* [Dashboard]() (not available yet)
 * [Video](https://www.youtube.com/watch?v=___0U6uikPA)
 
 <br><br>
